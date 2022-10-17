@@ -13,5 +13,5 @@ function main() {
  * @customfunction
  */
 function doubleMe(input) {
-    return create_incident.core.double_me(num);
+    return create_incident.core.double_me(input);
 }
